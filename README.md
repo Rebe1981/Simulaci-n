@@ -1,2 +1,2 @@
-# Simulaci-n
+# Simulacion
 Programas de Simulación
